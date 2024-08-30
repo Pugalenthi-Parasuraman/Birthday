@@ -31,7 +31,7 @@
 }
 
 .box:nth-child(even)::before {
-    content: "Keep Smiling my frd";
+    content: "Keep Smiling mamu";
     filter: hue-rotate(180deg);
 }
 

@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "13809000000008078",
+      "name": "Birthday-Wish",
+      "domain": {
+        "id": "10087394349",
+        "name": "birthday-wish-861069773.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "861069773",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
